@@ -42,4 +42,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ### Live Demo Link
 
 > Demo link
-> open [https://may-flix.vercel.app/](https://may-flix.vercel.app/) with your browser to see the result.
+> open []() with your browser to see the result.
